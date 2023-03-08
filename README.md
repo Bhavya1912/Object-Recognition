@@ -5,4 +5,6 @@ large dataset of images, and is capable of identifying objects in images with hi
 
 
 Getting Started
+
+
 To run this project, you will need to have Python 3.6 or higher installed, as well as several Python libraries, including TensorFlow, Keras, and OpenCV. You can install these libraries using pip, by running the following command:
