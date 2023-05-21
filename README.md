@@ -3,7 +3,7 @@ This is a deep learning project that demonstrates how to use ResNet50 to perform
 ResNet50 is a convolutional neural network architecture that has been trained on a
 large dataset of images, and is capable of identifying objects in images with high accuracy.
 
-bject Recognition using ResNet50 with Transfer Learning. Here we used the pre-trained model called ResNet50 for Object Recognition. Transfer Learning is an important concept in Deep Learning. 
+object Recognition using ResNet50 with Transfer Learning. Here we used the pre-trained model called ResNet50 for Object Recognition. Transfer Learning is an important concept in Deep Learning. 
 # Getting Started
 
 
